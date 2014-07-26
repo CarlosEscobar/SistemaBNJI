@@ -1,5 +1,0 @@
-<Aristas>
- <Arista Precio="1000" Origen="1" Destino="2" NombreDestino="BRASIL"/>
- <Arista Precio="2000" Origen="1" Destino="3" NombreDestino="ARGNTA"/>
- <Arista Precio="200" Origen="2" Destino="3" NombreDestino="ARGNTA"/>
-</Aristas>
