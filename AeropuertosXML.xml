@@ -1,0 +1,5 @@
+<Aeropuertos>
+ <Aeropuerto Nombre="SPS" Codigo="1" X="177" Y="379"/>
+ <Aeropuerto Nombre="BRASIL" Codigo="2" X="229" Y="413"/>
+ <Aeropuerto Nombre="ARGNTA" Codigo="3" X="206" Y="471"/>
+</Aeropuertos>
